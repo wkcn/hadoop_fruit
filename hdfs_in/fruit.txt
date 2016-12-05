@@ -1,0 +1,7 @@
+Sam:apple, pear
+Amy:apple
+Jim:straberry
+Jackie:watermelon
+Harry:strawberry
+Lily:watermelon, pear
+Tom:watermelon
